@@ -1,4 +1,4 @@
-<br/>Authors: Jianghao Zhu, Franz Loza, Chunqing Xu£¬Siyang Sun and Le Xu
+<br/>Authors: Jianghao Zhu, Franz Loza, Chunqing Xu, Siyang Sun and Le Xu
 <br/>Contribution: All members contributed to HW3.
 <br/>1. F.L started Assignment 1 and CX finish his work with JZ. Meantime SS finished her work independently and helped with Extra Credit.
 <br/>2. FL started assignment 2, and then continued by JZ and LX, FL and CX adopted JZ and LX's new idea for the project
