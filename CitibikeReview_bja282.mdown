@@ -27,10 +27,6 @@ The data generally supports the project. A significant number of riders' birth y
 
 <h3><i>c. Chose an appropriate test to test H0 given the type of data, and the question asked.</i></h3>
 
-I would recommend a couple tests to assess the null hypothesis, including a chi-square test, a t-test and a ANOVA test. 
+I would recommend a chi-square test to assess the null hypothesis. 
 
-The chi-square test would be useful for assessing the difference between female and male riders over 45, or the ratios of female and males riders over 45 relative to younger riders, in terms of observed frequencies and expected frequencies. i.e. "Is the distribution in gender for riders over 45 due to chance or is there a distinct difference between the genders for riders over 45 in terms of their inclination to ride?
-
-A t-test would also be helpful. You could look at difference between female and male riders over 45, as well as the ratios of female and male riders over 45 relative to younger riders, in terms of a variable of interest. In a general sense, you could use their gender as the basis and then assess based on age in order to create a test that reflected the null hypothesis. 
-
-An ANOVA test might be interesting for determining whether another variable (such as time of day or day of the week) was impacting the number of riders over 45 for both genders, or the ratio of older male and female riders to younger riders.
+The chi-square test would be useful for assessing the difference between female and male riders over 45, or the ratios of female and males riders over 45 relative to younger riders, in terms of observed frequencies and expected frequencies. i.e. "Is the distribution in gender for riders over 45 due to chance or is there a distinct difference between the genders for riders over 45 in terms of their inclination to ride?"
