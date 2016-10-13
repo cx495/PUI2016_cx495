@@ -1,6 +1,6 @@
 <br>Author: Chunqing Xu
 
-<br>Contributor: Chunqing Xu, Franz Loza, Siyang Sun
+<br>Contributor: Jianghao Zhu, Franz Loza, Siyang Sun
 
 <br>Work together and get help from the others.
 
