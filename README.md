@@ -4,7 +4,7 @@ This is a repo for my work on Principle of Urban Informatics class.
 HW2: <br>Visualization of NYPD Motor Vehicle Incidents
      <br>Visualization of NY Number of Injuries from Vehicle Injuries
      
-HW3: <br>Hypothesis Test - Are men above age 45 are less likely than women above age 45 to ride a citi bike/ How is the new bus        <br>route for X8 improving commute times?
+HW3: <br>Hypothesis Test - Are men above age 45 are less likely than women above age 45 to ride a citi bike/ How is the new bus route for X8 improving commute times?
 
 HW4: <br>Visualization of Histogrammed Distribution of Riders' Ages by Gender
      <br>Visualization of Cumulative Distribution of CitiBikee Riders' Ages by Gender
