@@ -1,5 +1,5 @@
 # PUI2016_cx495
-This is a repo for my work on Pronciple of Urban Informatics class.
+This is a repo for my work on Principle of Urban Informatics class.
 
 HW2: Visualization of NYPD Motor Vehicle Incidents 
      Visualization of NY Number of Injuries from Vehicle Injuries
